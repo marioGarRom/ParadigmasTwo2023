@@ -1,4 +1,4 @@
-package Ejecucion_Hilos;
+package Conversacion;
 
 import java.util.Scanner;
 import java.util.concurrent.ExecutorService;

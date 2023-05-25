@@ -1,4 +1,4 @@
-package Ejecucion_Hilos;
+package Conversacion;
 
 public class ContadorAdelante implements Runnable {
     private String nombre;
